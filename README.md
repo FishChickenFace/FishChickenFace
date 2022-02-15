@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FishChickenFace
+- 👀 I’m interested in developing scientific HPC applications
+- 🌱 I’m currently learning shared memory parallelism (GPUs/OpenMP - I already know heaps of MPI)
