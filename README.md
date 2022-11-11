@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @FishChickenFace
+- 👋 Hi, I’m @edoyango
 - 👀 I’m interested in developing scientific HPC applications
-- 🌱 I’m currently learning shared memory parallelism (GPUs/OpenM)
+- 🌱 I’m currently building my skills in:
+    - cloud computing and openstack
+    - CUDA/HIP
+    - R
+    - C++
+    - building web pages and apps
