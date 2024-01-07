@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @edoyango
-- 👀 I’m interested in developing scientific HPC applications
-- 🌱 I’m currently building my skills in:
-    - cloud computing and openstack
-    - CUDA/HIP
-    - R
-    - C++
-    - building web pages and apps
+Job: Research Softwater Engineer in life science.
+
+Fun: Accelerating mesh-based and mesh-less particle-based simulation numerical methods (SPH, MPM). 
